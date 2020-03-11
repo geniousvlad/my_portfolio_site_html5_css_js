@@ -122,3 +122,8 @@ body {
 .profile-content-wrapper h1 {
     color: lightseagreen;
 }
+
+.profile-content-wrapper p {
+    font-weight: 600;
+    line-height: 2;
+}
